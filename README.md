@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+It is a web App for tracking real-time data on cryptocurrency exchanges and coins.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
